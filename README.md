@@ -25,7 +25,6 @@
   <img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
   <img src="https://cdn.simpleicons.org/prometheus/E6522C" height="50" alt="Prometheus" />
-  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50" alt="Google Cloud" />
 </div>
 
@@ -53,7 +52,7 @@
 ### 📫 Contato
 
 <p align="center">
-  <a href="mailto:seuemail@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:thallisson.h.tp@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/seu-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
