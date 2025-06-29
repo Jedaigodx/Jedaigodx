@@ -47,6 +47,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Jedaigodx/Jedaigodx/output/pacman-contribution-graph.svg">
 </picture>
 
+
 ---
 
 ### 📫 Contato
