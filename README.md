@@ -4,7 +4,7 @@
 
 ### 👨‍💻 Sobre mim
 
-<p align="center">
+<p align="left">
   🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
   💼 Auxiliar Financeiro com paixão por tecnologia e automações <br>
   🚀 Explorando Python, Banco de Dados e ferramentas de produtividade digital
