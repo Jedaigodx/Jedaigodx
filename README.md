@@ -37,23 +37,3 @@
   <img src="https://streak-stats.demolab.com?user=Jedaigodx&locale=pt-br&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="GitHub Streak" />
 </div>
 
----
-
-### 🟡 Pac-Man Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jedaigodx/Jedaigodx/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jedaigodx/Jedaigodx/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Jedaigodx/Jedaigodx/output/pacman-contribution-graph.svg">
-</picture>
-
-
----
-
-### 📫 Contato
-
-<p align="center">
-  <a href="mailto:thallisson.h.tp@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/seu-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
